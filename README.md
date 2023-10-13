@@ -1,7 +1,7 @@
 # Clasificacion_frutas
 
 ## Curso: Computación Gráfica CC431
-## Alumno: 
+## Alumnos: 
 
 Fernandez Aroni Franky Adriel
 
