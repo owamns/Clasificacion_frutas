@@ -4,7 +4,7 @@
 ## Alumno: Fernandez Aroni Franky Adriel
 
 ## ⚠️ Importante! ⚠️
-tensorflow = 2.14.0
+tensorflow = 2.x
 
 ## 🔍 ¡Analizando el repositorio!
 - El archivo `main.py` tiene como funcionalidad crear el dataset donde se debe hacer lo que se pide.
