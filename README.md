@@ -1,7 +1,11 @@
 # Clasificacion_frutas
 
 ## Curso: Computación Gráfica CC431
-## Alumno: Fernandez Aroni Franky Adriel
+## Alumno: 
+
+Fernandez Aroni Franky Adriel
+
+Gutierrez Mazzetti Nicole Alexandra
 
 ## ⚠️ Importante! ⚠️
 tensorflow = 2.x
